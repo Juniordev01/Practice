@@ -41,10 +41,6 @@
                         <label for="Gender">Gender</label>
                         <input type="text" name="Gender" class="form-control" id="Gender">
                     </div>
-                    <div class="form-g">
-                        <label for="profile_pic">Profile Image</label>
-                        <input type="file" name="profile_pic" id="profile_pic">
-                    </div>
                 </form>
             </div>
         </div>
