@@ -30,6 +30,10 @@
                     </div>
 
                     <div class="form-group">
+                        <label for="father_name">Father Name</label>
+                        <input type="text" name="Email" class="form-control" id="father_name">
+                    </div>
+                    <div class="form-group">
                         <label for="Email">Email</label>
                         <input type="text" name="Email" class="form-control" id="Email">
                     </div>
