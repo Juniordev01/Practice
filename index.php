@@ -43,7 +43,7 @@
                     </div>
                     <div class="form-group">
                         <label for="Gender">Gender</label>
-                        <input type="text" name="Gender" class="form-control" id="Gender">
+                        <input type="radio" name="Gender" class="form-control" id="Gender">
                     </div>
                     <div class="form-g">
                         <label for="profile_pic">Profile</label>
